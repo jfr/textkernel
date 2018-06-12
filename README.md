@@ -1,6 +1,8 @@
 # Textkernel
 
+[![Build Status](https://travis-ci.org/mindmatch/textkernel.svg?branch=master)](https://travis-ci.org/mindmatch/textkernel)
 textkernel's Extract! (CV/Resume parsing) API client library
+
 https://www.textkernel.com/hr-software/extract-cv-parsing
 
 ## Installation
